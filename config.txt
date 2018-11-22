@@ -1,0 +1,6 @@
+token=NTE1MTkzODU4MDY2NDgxMTg5.DthjZw.oJBuzRDu2k6rnR22sblUpEghmw0
+owner=490803489765720064
+prefix= P
+game= Phelp
+stayinchannel=true
+songinstatus=true
